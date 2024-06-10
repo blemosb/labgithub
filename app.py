@@ -23,6 +23,8 @@ def main():
         elif choice == '2':
             add_task(tasks)
         elif choice == '3':
+            print("teste do git.")
+        elif choice == '4':
             break
         else:
             print("Opção inválida, tente novamente.")
